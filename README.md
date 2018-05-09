@@ -1,5 +1,5 @@
 # hubtel-opencart
-Opencart 2.3.x payment module for Hubtel Payment API
+Opencart 2.3.x payment module for Hubtel Online Checkout Payment API
 
 1. Try this in a test environment prior to installing it on a production application.
 
