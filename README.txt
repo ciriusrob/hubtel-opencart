@@ -31,10 +31,6 @@ Installation Instructions
 
 7. Insert your client Secret given to you by Hubtel.
 
-8. Under the 'Company Details' tab, insert details for 
-	Company Name, 
-	Company Tagline, 
-	Company Phone Number
-	Compnay Website URL.
+8. Under the 'Company Details' tab, insert details for Company Name, Company Tagline, Company Phone Number Compnay Website URL.
 
 Go to https://developers.hubtel.com/documentations/online-checkout-api for more info.
