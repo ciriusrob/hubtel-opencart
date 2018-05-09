@@ -63,12 +63,12 @@ class ControllerExtensionPaymentHubtel extends Controller {
 					'description' => $description
 				];
 
-				$invoice['invoice']['total_amount'] += $total_price;
-
 				$count++;
 			}
 
-			$client_id = $this->config->get('hubtel_client_id'); //
+			$invoice['invoice']['total_amount'] = $order_info['total'];
+
+			$client_id = $this->config->get('hubtel_client_id');
 			$client_secret = $this->config->get('hubtel_client_secret');
 			$basic_auth_key =  'Basic ' . base64_encode($client_id . ':' . $client_secret);
 			$request_url = 'https://api.hubtel.com/v1/merchantaccount/onlinecheckout/invoice/create';
