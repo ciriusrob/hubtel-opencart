@@ -1,7 +1,7 @@
 # hubtel-opencart
 Opencart 2.3.x payment module for Hubtel Online Checkout Payment API
 
-1. Try this in a test environment prior to installing it on a production application.
+1. Download the latest release from the releases tab and extract.
 
 2. Login to admin and in **Extension -> Extension Installer** upload the **hubtel.ocmod.zip**.
 
