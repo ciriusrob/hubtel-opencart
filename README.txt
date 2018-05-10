@@ -1,6 +1,6 @@
-Accept Credit/Debit Cards and all Mobile Money Payment with Hubtels' Payment API
+Accept Credit/Debit Cards and all Mobile Money Payment with Hubtel's Online CHeckout API
 --------------------------------------------------------
-Version: 1.0
+Version: 1.0.1
 --------------------------------------------------------
 Released under the GNU General Public License
 --------------------------------------------------------
@@ -11,11 +11,12 @@ This extension should be used with OpenCart 2.3.x
 --------------------------------------------------------
 History:
 
-1.0 08/05/2018 - First Release
+09/05/2018 - hubtel-opencart-v1.0.1
+09/05/2018 - hubtel-opencart-v1.0.0
 --------------------------------------------------------
 Installation Instructions 
 
-0. Try this in a test environment prior to installing it on a production application.
+0. Download the latest release from the releases tab and extract.
 
 1. Login to admin and in 'Extension'->'Extension Installer' upload the 'hubtel.ocmod.zip'.
 
